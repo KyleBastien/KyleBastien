@@ -2,7 +2,7 @@
 
 My name is Kyle Bastien, I'm a Software Engineer working at Microsoft, and doing my best to contribute to open source whenever/wherever I can. I work mostly on TypeScript/JavaScript based projects, but consider myself a full stack engineer with knowledge of C# and Java. My interests are in things like monorepos, accessibility, web application performance, micro frontends, and code sharing. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-### Some stuff I work on
+### ⌨️ Some stuff I work on
 
 - I open sourced [nx-azure](https://github.com/microsoft/nx-azure), which is set of tools to make working with Nx monorepos easier with Azure resources.
 - I contribute to [Nx](https://github.com/nrwl/nx), which is set of extensible dev tools for monorepos, and the best monorepo tools in the world in my opinion.
