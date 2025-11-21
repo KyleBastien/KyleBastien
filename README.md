@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Kyle Bastien, I'm a Software Engineer working at DocuSign, and doing my best to contribute to open source whenever/wherever I can. I work mostly on TypeScript/JavaScript based projects, but consider myself a full stack engineer with knowledge of C# and Java. My interests are in things like monorepos, accessibility, web application performance, micro frontends, and code sharing. You can find me on [Twitter](https://twitter.com/nuttguy), or on [LinkedIn](https://www.linkedin.com/in/kyle-bastien/).
+My name is Kyle Bastien, I'm a Software Engineer working at Docusign, and doing my best to contribute to open source whenever/wherever I can. I work mostly on TypeScript/JavaScript based projects, but consider myself a full stack engineer with knowledge of C# and Java. My interests are in things like monorepos, accessibility, web application performance, micro frontends, and code sharing. You can find me on [LinkedIn](https://www.linkedin.com/in/kyle-bastien/).
 
 ### 📈Github Stats
 
